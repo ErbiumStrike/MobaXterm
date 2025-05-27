@@ -101,17 +101,3 @@ xclock
 🕒 A clock window appeared on your Windows machine — confirming X11 forwarding worked.
 
 ---
-
-#### ✅ **5. Launched GaussView successfully**
-
-Finally:
-
-```bash
-gview
-```
-
-And GaussView opened — mission accomplished! 🎉
-
----
-
-Let me know if you'd like this turned into a PDF or printable cheat sheet for future reference!
